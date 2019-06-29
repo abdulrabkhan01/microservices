@@ -1,7 +1,8 @@
-package com.ark.rest.webservices.restwebservices;
+package com.ark.rest.webservices;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 public class RestwebservicesApplication {
