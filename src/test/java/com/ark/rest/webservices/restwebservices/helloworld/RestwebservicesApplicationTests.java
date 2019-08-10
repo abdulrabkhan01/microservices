@@ -1,4 +1,4 @@
-package com.ark.rest.webservices.restwebservices;
+package com.ark.rest.webservices.restwebservices.helloworld;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
